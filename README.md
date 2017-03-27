@@ -1,3 +1,3 @@
-Symfony Image Manipulation Component
+Symfony fixtures for Image Component
 ====================================
 
